@@ -9,7 +9,7 @@ Astra is a powerful, offline-first AI assistant and productivity suite. It combi
 ### 🧠 Intelligent AI Assistant
 - **Offline Chat**: Powered by Ollama (Phi-3) for private, offline conversations.
 - **RAG System**: Upload PDFs to create a local knowledge base. Astra will cite specific pages and documents in its answers.
-- **Astra Online**: Integration with Gemini for enhanced online capabilities.
+- **Astra Online**: Integration with Gemini for enhanced online capabilities. 
 
 ### 🛠️ Productivity Tools
 - **Math Solver**: Solve complex mathematical expressions with ease.
