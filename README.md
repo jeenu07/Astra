@@ -1,7 +1,7 @@
 # Astra 🚀
 
 Astra is a powerful, offline-first AI assistant and productivity suite. It combines a modern Flutter frontend with a robust FastAPI backend to provide intelligent features like RAG (Retrieval-Augmented Generation) from local documents, offline chat, math solving, and more—all while keeping your data local.
-
+  
 ---
 
 ## ✨ Features
